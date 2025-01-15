@@ -197,7 +197,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **[Figma Presentation for HackCBS 7.0](https://www.figma.com/slides/6R8Dy1DpnUKosdyRD4Up4k/Veil?node-id=27-132&t=7Q7hTDepLgxEgiD4-1)**  
   Explore the design and user flow of the project on Figma.
 
-- **[YouTube Video Link for the Website Walkthrough](https://www.youtube.com/watch?v=xJlMnI3p9v4)**  
+- **[YouTube Video Link for the Website Walkthrough](https://youtu.be/Lx5xpcNXfaI?si=O9g29wqItRGCdNyf)**  
   Watch the walkthrough of the website's features and functionality.
 
 - **[Live Deployment Link](https://veil-org.vercel.app/)**  

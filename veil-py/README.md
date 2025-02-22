@@ -36,7 +36,6 @@ The project integrates image processing, generative and custom build AI models, 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Ctrl-Crew/veil-py.git
    cd veil-py
    python3 -m venv venv
    source venv/bin/activate  
